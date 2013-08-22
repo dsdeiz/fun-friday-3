@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Custom Articles feature.
+ */
+
+include_once 'custom_articles.features.inc';
